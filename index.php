@@ -1,3 +1,4 @@
 <?php
-    echo"Nickzanarak"
+    echo"Nickzanarak";
+    echo"NickNick";
 ?>
